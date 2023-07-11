@@ -27,7 +27,7 @@ The application uses the following dependencies:
 - Webpack for bundling the code.
 
 ## Scripts
-npm run build: Build the project.
-npm start: Build the project and start the development server.
-npm run lint: Lint the code.
-npm run test: Run the tests.
+- npm run build: Build the project.
+- npm start: Build the project and start the development server.
+- npm run lint: Lint the code.
+- npm run test: Run the tests.
